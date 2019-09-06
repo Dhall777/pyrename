@@ -5,7 +5,7 @@ I used this often in college; no more renaming bs files in my down time!
 # Source code
 
 import os
-# Replace below with path containing targeted data
+
 os.chdir(r'path_of_your_data_here')
 
 for file in os.listdir():
