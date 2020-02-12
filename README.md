@@ -1,3 +1,2 @@
 # PythonFileRenaming
-Bare bones program for file renaming.
-I used this often in college; no more renaming bs files during down time!
+Quick program for file renaming. This script saved me lots of time during college.
